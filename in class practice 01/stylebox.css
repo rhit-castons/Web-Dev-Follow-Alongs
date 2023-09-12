@@ -1,0 +1,40 @@
+p {
+    color: whitesmoke;
+}
+.bluebox{
+    background-color: #2C546D;
+    opacity: 0.7;
+    height: 100px;
+    width: 100px;
+    border-style: ridge;
+    border-color: black green orange yellow;
+    border-radius: 80px;
+    border-width: 10px;
+    padding: 10px;
+}
+
+.greenbox {
+    background-color: #20603C;
+    opacity: 0.5;
+    height: 100px;
+    margin: 10px;
+    /*background-image: url(https://cdn.5280.com/2018/07/shrine-pass_regensburger-photography.jpg);*/
+    background-image: url(images/wildflowers.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-origin: content-box;
+    outline-style: double;
+    outline-width: thick;
+    outline-color: red;
+}
+
+.yellowbox {
+    background-color: #7a6f09;
+    opacity: 0.3;
+    height: 100px;
+    margin: 10px;
+}
+
+.great {
+    font-size: 127%;
+}
